@@ -11,7 +11,9 @@
 <p align="center">
     <a href="https://nicholasireland.ca" target="_blank">https://nicholasireland.ca</a>
 </p>
-
+<p align="center">
+    Here's some stuff I work with:
+</p>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,vue,html,css,sass,bootstrap,mysql,nginx,lua,swift,git,neovim,pnpm,aws,vite,zsh&perline=5">
 </p>
