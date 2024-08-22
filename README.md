@@ -7,6 +7,21 @@
 
 <p align="center">
     I'm a <strong>Fullstack Software Developer</strong> based out of <em>London, Ontario</em>.
+    <ul class="socials-list">
+        <li>
+            <a href="https://github.com/xp-bar" target="_blank">Github</a>
+        </li>
+        <li>
+            <a href="https://www.linkedin.com/in/irelandnicholas/" target="_blank">LinkedIn</a>
+        </li>
+        <li>
+            <a href="https://dribbble.com/nickireland" target="_blank">Dribbble</a>
+        </li>
+        <li>
+            <a href="mailto:nick@nicholasireland.ca" target="_blank" icon="at">Email</a>
+        </li>
+    </ul>
+
 </p>
 <p align="center">
     <a href="https://nicholasireland.ca" target="_blank">https://nicholasireland.ca</a>
