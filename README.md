@@ -7,20 +7,10 @@
 
 <p align="center">
     I'm a <strong>Fullstack Software Developer</strong> based out of <em>London, Ontario</em>.
-    <ul class="socials-list">
-        <li>
-            <img src="https://skillicons.dev/icons?i=github" width="16" height="16">
-            <a href="https://github.com/xp-bar" target="_blank">Github</a>
-        </li>
-        <li>
-            <img src="https://skillicons.dev/icons?i=linkedin" width="16" height="16">
-            <a href="https://www.linkedin.com/in/irelandnicholas/" target="_blank">LinkedIn</a>
-        </li>
-    </ul>
-
 </p>
 <p align="center">
-    <a href="https://nicholasireland.ca" target="_blank">https://nicholasireland.ca</a>
+    <a href="https://nicholasireland.ca" target="_blank">https://nicholasireland.ca</a><br>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="16" height="16"><a href="https://www.linkedin.com/in/irelandnicholas/" target="_blank">LinkedIn</a>
 </p>
 <p align="center">
     Here's some stuff I work with:
