@@ -3,6 +3,5 @@
 </p>
 
 <h2 size="64px"><img src="https://nicholasireland.ca/images/alien.svg" alt="My Portfolio Logo" width="64" height="64"/>Hi, I'm Nick!</h2>
-<p>
-    I'm a <strong>Fullstack Software Developer</strong> based out of <em>London, Ontario</em>.
-</p>
+
+I'm a **Fullstack Software Developer** based out of __London, Ontario__.
