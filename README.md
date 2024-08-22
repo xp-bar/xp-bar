@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://nicholasireland.ca">
+    <a href="https://nicholasireland.ca" target="_blank">
         <img src="https://nicholasireland.ca/images/logo.svg" alt="My Portfolio Logo" width="128" height="128"/>
     </a>
 </p>
@@ -9,7 +9,7 @@
     I'm a <strong>Fullstack Software Developer</strong> based out of <em>London, Ontario</em>.
 </p>
 <p align="center">
-    <a href="https://nicholasireland.ca">https://nicholasireland.ca</a>
+    <a href="https://nicholasireland.ca" target="_blank">https://nicholasireland.ca</a>
 </p>
 
 <p align="center">
