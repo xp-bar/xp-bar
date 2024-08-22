@@ -17,7 +17,7 @@
             <a href="https://www.linkedin.com/in/irelandnicholas/" target="_blank">LinkedIn</a>
         </li>
         <li>
-            <img src="https://skillicons.dev/icons?i=dribble">
+            <img src="https://skillicons.dev/icons?i=dribbble">
             <a href="https://dribbble.com/nickireland" target="_blank">Dribbble</a>
         </li>
     </ul>
