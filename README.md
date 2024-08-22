@@ -12,7 +12,8 @@
     <a href="https://nicholasireland.ca" target="_blank">https://nicholasireland.ca</a>
 </p>
 <p align="center">
-    <a href="https://www.linkedin.com/in/irelandnicholas/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32"></a>
+    <a href="https://www.linkedin.com/in/irelandnicholas/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" alt="LinkedIn"></a>
+    <a href="https://github.com/xp-bar" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="32" height="32" alt="Github"></a>
 </p>
 <p align="center">
     Here's some stuff I work with:
