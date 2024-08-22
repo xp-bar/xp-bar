@@ -9,16 +9,12 @@
     I'm a <strong>Fullstack Software Developer</strong> based out of <em>London, Ontario</em>.
     <ul class="socials-list">
         <li>
-            <img src="https://skillicons.dev/icons?i=github">
+            <img src="https://skillicons.dev/icons?i=github" width="16" height="16">
             <a href="https://github.com/xp-bar" target="_blank">Github</a>
         </li>
         <li>
-            <img src="https://skillicons.dev/icons?i=linkedin">
+            <img src="https://skillicons.dev/icons?i=linkedin" width="16" height="16">
             <a href="https://www.linkedin.com/in/irelandnicholas/" target="_blank">LinkedIn</a>
-        </li>
-        <li>
-            <img src="https://skillicons.dev/icons?i=dribbble">
-            <a href="https://dribbble.com/nickireland" target="_blank">Dribbble</a>
         </li>
     </ul>
 
