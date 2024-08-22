@@ -1,4 +1,6 @@
+<div style="text-align: center">
 <img src="https://nicholasireland.ca/images/logo.svg" alt="My Portfolio Logo" width="128" height="128"/>
+</div>
 
 <h2>Hi, I'm Nick!</h2>
 
