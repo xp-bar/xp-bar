@@ -10,7 +10,7 @@
 </p>
 <p align="center">
     <a href="https://nicholasireland.ca" target="_blank">https://nicholasireland.ca</a><br>
-    <img src="https://skillicons.dev/icons?i=linkedin" width="16" height="16"><a href="https://www.linkedin.com/in/irelandnicholas/" target="_blank">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/irelandnicholas/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32"></a>
 </p>
 <p align="center">
     Here's some stuff I work with:
