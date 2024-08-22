@@ -8,5 +8,5 @@
 I'm a **Fullstack Software Developer** based out of __London, Ontario__.
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,vue&perline=5">
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,vue,html,css,sass,bootstrap,mysql,nginx,lua,swift,git,neovim,pnpm,aws,vite,zsh&perline=5">
 </p>
