@@ -7,7 +7,9 @@
 
 <p align="center">
     I'm a <strong>Fullstack Software Developer</strong> based out of <em>London, Ontario</em>.
-    <a href="https://nicholasireland.ca"><img src="https://nicholasireland.ca/images/alien.svg" width="28" height="28"/>nicholasireland.ca</a>
+</p>
+<p align="center">
+    <a href="https://nicholasireland.ca"><img src="https://nicholasireland.ca/images/logo.svg" width="28" height="28"/>nicholasireland.ca</a>
 </p>
 
 <p align="center">
