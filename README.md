@@ -6,3 +6,7 @@
 <h2>Hi, I'm Nick!</h2>
 
 I'm a **Fullstack Software Developer** based out of __London, Ontario__.
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,vue&perline=5">
+</p>
