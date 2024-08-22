@@ -9,7 +9,9 @@
     I'm a <strong>Fullstack Software Developer</strong> based out of <em>London, Ontario</em>.
 </p>
 <p align="center">
-    <a href="https://nicholasireland.ca" target="_blank">https://nicholasireland.ca</a><br>
+    <a href="https://nicholasireland.ca" target="_blank">https://nicholasireland.ca</a>
+</p>
+<p align="center">
     <a href="https://www.linkedin.com/in/irelandnicholas/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32"></a>
 </p>
 <p align="center">
