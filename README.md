@@ -21,3 +21,9 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,vue,html,css,sass,bootstrap,mysql,nginx,lua,swift,git,neovim,pnpm,aws,vite,zsh&perline=5">
 </p>
+
+<p align="center">
+    <img src="https://nicholasireland.ca/images/alien_waving.svg" alt="Later!" width="128" height="128"/>
+    <br><br>
+    Thanks for stopping by!
+</p>
